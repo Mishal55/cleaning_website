@@ -22,6 +22,7 @@ A modern, responsive cleaning service website built with React.js and TypeScript
 | Figma (optional)| UI design reference             |
 
 ## 🚀 Getting Started
+screenshoot <img width="1920" height="919" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/c9ee1705-6303-4993-94da-2c58a24503f2" />
 
 To run the project locally:
 
@@ -30,4 +31,3 @@ git clone https://github.com/your-username/cleaning-service-react.git
 cd cleaning-service-react
 npm install
 npm start
-<img width="1920" height="919" alt="Screenshot (199)" src="https://github.com/user-attachments/assets/7e313c57-f5bb-4d24-bbe6-4768226d6f94" />
